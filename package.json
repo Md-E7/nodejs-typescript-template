@@ -6,5 +6,8 @@
     "email": "madeegi2@gmail.com",
     "url": "https://md-e7.vercel.app"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
